@@ -1,0 +1,6 @@
+D:\Project\Desktop Programing\aplikasi_penjualan\obj\Debug\net8.0-windows\aplikasi_penjualan.GUI.Menu_Utama.resources
+D:\Project\Desktop Programing\aplikasi_penjualan\obj\Debug\net8.0-windows\aplikasi_penjualan.csproj.GenerateResource.cache
+D:\Project\Desktop Programing\aplikasi_penjualan\obj\Debug\net8.0-windows\aplikasi_penjualan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Desktop Programing\aplikasi_penjualan\obj\Debug\net8.0-windows\aplikasi_penjualan.AssemblyInfoInputs.cache
+D:\Project\Desktop Programing\aplikasi_penjualan\obj\Debug\net8.0-windows\aplikasi_penjualan.AssemblyInfo.cs
+D:\Project\Desktop Programing\aplikasi_penjualan\obj\Debug\net8.0-windows\aplikasi_penjualan.csproj.CoreCompileInputs.cache
